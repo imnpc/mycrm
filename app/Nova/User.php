@@ -11,7 +11,7 @@ use Laravel\Nova\Fields\Text;
 class User extends Resource
 {
     /**
-     * The model the resource corresponds to.
+     * The model the resource corresponds to. model
      *
      * @var string
      */
